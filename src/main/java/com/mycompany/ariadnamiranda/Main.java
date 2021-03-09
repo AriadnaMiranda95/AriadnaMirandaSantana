@@ -26,6 +26,8 @@ public class Main {
             cuenta1.ingresar(695);
         } catch (Exception e) {
             System.out.print("Fallo al ingresar");
+            System.out.print("Fallo");
+            
         }
     }
 
